@@ -1,9 +1,12 @@
 # Landslide Displacement Forecasting using Deep Learning and monitoring data
 
-This repository contains codes from the journal paper "Landslide displacement forecasting using deep learning and monitoring data across selected sites" by Nava et al (2023) (out soon in Landslides Journal).
-With this repository files you can tune 7 different Deep Learning models.
+This repository contains the code implementation for the research paper titled "Landslide Displacement Forecasting using Deep Learning and Monitoring Data across Selected Sites" by Nava et al. The paper will be published soon in the Landslides Journal.
 
-Contact email: lorenava996@gmail.com
+The code in this repository allows you to fine-tune seven different deep learning models for landslide displacement forecasting. Please note that we are unable to share the original data used in the research. However, we have provided fake data in the data folder, which has a similar format and structure to the original data.
+
+You are encouraged to use this code with your own data. If you have any questions or require assistance, please don't hesitate to contact me.
+
+Contact Email: lorenava996@gmail.com
 
 ***Forecasting approach***
-![Attention U-Net architecture](https://github.com/lorenzonava96/Landslide-mapping-on-SAR-data-by-Attention-U-Net/blob/main/Pictures/Attention%20U-Net-4.png)
+![Forecasting approach](https://github.com/lorenzonava96/Landslide-Displacement-Forecasting-using-seven-Deep-Learning-architectures-and-monitoring-data/blob/main/images/LookBack.png)
