@@ -9,4 +9,4 @@ You are encouraged to use this code with your own data. If you have any question
 Contact Email: lorenava996@gmail.com
 
 ***Forecasting approach***
-![Forecasting approach](https://github.com/lorenzonava96/Landslide-Displacement-Forecasting-using-seven-Deep-Learning-architectures-and-monitoring-data/tree/main/Images)
+![Forecasting approach](https://github.com/lorenzonava96/Landslide-Displacement-Forecasting-using-seven-Deep-Learning-architectures-and-monitoring-data/blob/main/Images/LookBack.png)
