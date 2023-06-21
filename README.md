@@ -6,7 +6,7 @@ The code in this repository allows you to fine-tune seven different deep learnin
 
 You are encouraged to use this code with your own data. If you have any questions or require assistance, please don't hesitate to contact me.
 
-Contact Email: lorenava996@gmail.com
+Contact Emails: lorenzo.nava@phd.unipd.it; lorenava996@gmail.com
 
 ***Forecasting approach***
 ![Forecasting approach](https://github.com/lorenzonava96/Landslide-Displacement-Forecasting-using-seven-Deep-Learning-architectures-and-monitoring-data/blob/main/Images/LookBack.png)
