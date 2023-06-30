@@ -1,6 +1,6 @@
 # Landslide Displacement Forecasting using Deep Learning and monitoring data
 
-This repository contains the code implementation for the research paper titled "Landslide Displacement Forecasting using Deep Learning and Monitoring Data across Selected Sites" by [Nava et al (2023)]([https://www.mdpi.com/2072-4292/14/6/1449/htm](https://link.springer.com/article/10.1007/s10346-023-02104-9)). The paper is published in the Landslides Journal.
+This repository contains the code implementation for the research paper titled "Landslide Displacement Forecasting using Deep Learning and Monitoring Data across Selected Sites" by [Nava et al (2023)](https://link.springer.com/article/10.1007/s10346-023-02104-9). The paper is published in the Landslides Journal.
 
 The code in this repository allows you to fine-tune seven different deep learning models for landslide displacement forecasting. To facilitate learning and reproducibility, we have included sample displacement and rainfall data for the Lamosano landslide in the "data" folder. 
 
